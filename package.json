@@ -4,8 +4,8 @@
       "wavesurfer.js": "^5.1.0"
     },
     "scripts": {
-      "clean:all": "rm pnpm-lock.yaml && rm -r packages/p1/node_modules && rm -r packages/p2/node_modules",
-      "clean:lib": "rm -r packages/p1/node_modules && rm -r packages/p2/node_modules"
+      "clean:all": "rm pnpm-lock.yaml & rm -r packages/p1/node_modules & rm -r packages/p2/node_modules",
+      "clean:lib": "rm -r packages/p1/node_modules & rm -r packages/p2/node_modules"
     }
   }
   
