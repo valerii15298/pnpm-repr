@@ -1,0 +1,6 @@
+{
+  "name": "p1",
+  "dependencies": {
+    "wavesurfer.js": "^5.1.0"
+  }
+}
